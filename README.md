@@ -1,1 +1,1 @@
-# 71.40_legislacion_y_ejercicio_profesional_de_la_ingenieria_en_informatica
+# 71.40 Legislacion y ejercicio profesional de la ingenieria en informatica
